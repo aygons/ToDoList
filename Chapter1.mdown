@@ -1,7 +1,10 @@
-## The way to be a data scientist##
-### 先从Pro Git说起 ###
-
-如果你了解Git，或者想了解Git。那么你就应该知道[Pro Git](http://progit.org/)，
+## The Way To Be A Data Scientist##
+### Self Evaluation ###
+I'm currently a mast in `R`. A starter with `Python`.
+### Basic ###
+- Statistics
+- Python
+- 
 ### PDF格式 ###
 为了能达到出版的质量，Latex是一个常用的格式，PDF也能很容易地转换出来，有关Latex，自己看看参考链接学习吧。
 

@@ -12,24 +12,31 @@ I'm currently a mast in `R`. A starter with `Python`.
       - [Statistics S-100: Introduction to Quantitative Methods](http://isites.harvard.edu/icb/icb.do?keyword=k68585&pageid=icb.page331360)
   - [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/info)
   - [Model Validation](https://www.udacity.com/course/progress#!/c-ud919)
+
 2. Python
   - [零基础学Python](https://github.com/qiwsir/StarterLearningPython/blob/master/index.md)
   - Intro: [Intro to Computer Science Build a Search Engine & a Social Network](https://www.udacity.com/course/cs101) 
   - Analysis: [Python for Data Analysis](http://htmlpreview.github.io/?https://github.com/nicolasfauchereau/NIWA_Python_seminars/blob/master/0_Introduction.html)
   - Improve: [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-0#.VRt57FwfyyM),
   [中文站](http://mooc.guokr.com/course/935/Introduction-to-Computational-Thinking-and-Data-Science/)
+
 3. Data Structure (Java and SQL)
   - Books: Head First Java, A First Course in Database Systems
   - Courses: [Data Structures and Algorithms in Java, Berkeley CS61b](http://www.cs.berkeley.edu/~jrs/61b/),
   [Database using SQL](https://class.coursera.org/db/class/index)
+
 4. Math/Models
   - Time Series
   - [Monte Carlo Methods, Stochastic Optimization](http://am207.org)
+
 5. Data Visualization 
   - [HTML, CSS, JavaScript,PHP...](http://www.codecademy.com/learn)
   - rCharts, HighCharts
+
 6. Algorithm 
+
 7. Business Acumen
+
 8. [IOS Dev](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/)
 
 

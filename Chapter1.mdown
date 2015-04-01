@@ -2,7 +2,7 @@
 ### Self Evaluation ###
 I'm currently a mast in `R`. A starter with `Python`.
 ### Basic ###
-- Statistics
+1. Statistics
   - Basic Statistic: 
     - Descriptive Statics: skewness, median, mean, variance... 
     - Statistic Inference: various statistic tests, hypothesis testing, confidence interval, bootstrapping... 
@@ -12,13 +12,20 @@ I'm currently a mast in `R`. A starter with `Python`.
       - [Statistics S-100: Introduction to Quantitative Methods](http://isites.harvard.edu/icb/icb.do?keyword=k68585&pageid=icb.page331360)
   - [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/info)
   
-- Python
-- SQL
-- Math/Models
+2. Python
+  - [零基础学Python](https://github.com/qiwsir/StarterLearningPython/blob/master/index.md)
+  - Intro: [Intro to Computer Science Build a Search Engine & a Social Network](https://www.udacity.com/course/cs101) 
+  - Analysis: [Python for Data Analysis](http://htmlpreview.github.io/?https://github.com/nicolasfauchereau/NIWA_Python_seminars/blob/master/0_Introduction.html)
+  - Improve: [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-0#.VRt57FwfyyM),
+  [中文站](http://mooc.guokr.com/course/935/Introduction-to-Computational-Thinking-and-Data-Science/)
+3. SQL
+4. Math/Models
   - Time Series
-  - f
-- Data Visualization 
+  - [Monte Carlo Methods, Stochastic Optimization](http://am207.org)
+5. Data Visualization 
+  - [HTML, CSS, JavaScript,PHP...](http://www.codecademy.com/learn)
+  - rCharts, HighCharts
+6. Algorithm 
+7. Business Acumen
 
-### PDF格式 ###
-为了能达到出版的质量，Latex是一个常用的格式，PDF也能很容易地转换出来，有关Latex，自己看看参考链接学习吧。
 

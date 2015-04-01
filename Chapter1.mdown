@@ -18,7 +18,10 @@ I'm currently a mast in `R`. A starter with `Python`.
   - Analysis: [Python for Data Analysis](http://htmlpreview.github.io/?https://github.com/nicolasfauchereau/NIWA_Python_seminars/blob/master/0_Introduction.html)
   - Improve: [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-0#.VRt57FwfyyM),
   [中文站](http://mooc.guokr.com/course/935/Introduction-to-Computational-Thinking-and-Data-Science/)
-3. SQL
+3. Data Structure (Java and SQL)
+  - Books: Head First Java, A First Course in Database Systems
+  - Courses: [Data Structures and Algorithms in Java, Berkeley CS61b](http://www.cs.berkeley.edu/~jrs/61b/),
+  [Database using SQL](https://class.coursera.org/db/class/index)
 4. Math/Models
   - Time Series
   - [Monte Carlo Methods, Stochastic Optimization](http://am207.org)
@@ -27,5 +30,6 @@ I'm currently a mast in `R`. A starter with `Python`.
   - rCharts, HighCharts
 6. Algorithm 
 7. Business Acumen
+8. [IOS Dev](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/)
 
 

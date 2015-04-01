@@ -11,7 +11,7 @@ I'm currently a mast in `R`. A starter with `Python`.
       - [Intro to Statistics](https://www.udemy.com/statistics/#/)
       - [Statistics S-100: Introduction to Quantitative Methods](http://isites.harvard.edu/icb/icb.do?keyword=k68585&pageid=icb.page331360)
   - [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/info)
-  
+  - [Model Validation](https://www.udacity.com/course/progress#!/c-ud919)
 2. Python
   - [零基础学Python](https://github.com/qiwsir/StarterLearningPython/blob/master/index.md)
   - Intro: [Intro to Computer Science Build a Search Engine & a Social Network](https://www.udacity.com/course/cs101) 

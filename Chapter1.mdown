@@ -3,8 +3,21 @@
 I'm currently a mast in `R`. A starter with `Python`.
 ### Basic ###
 - Statistics
+  - Basic Statistic: 
+    - Descriptive Statics: skewness, median, mean, variance... 
+    - Statistic Inference: various statistic tests, hypothesis testing, confidence interval, bootstrapping... 
+    - Recommanded Course: 
+      - [A Hands-on Introduction to Statistics with R](https://www.datacamp.com/introduction-to-statistics)
+      - [Intro to Statistics](https://www.udemy.com/statistics/#/)
+      - [Statistics S-100: Introduction to Quantitative Methods](http://isites.harvard.edu/icb/icb.do?keyword=k68585&pageid=icb.page331360)
+  - [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/info)
+  
 - Python
 - SQL
+- Math/Models
+  - Time Series
+  - f
+- Data Visualization 
 
 ### PDF格式 ###
 为了能达到出版的质量，Latex是一个常用的格式，PDF也能很容易地转换出来，有关Latex，自己看看参考链接学习吧。

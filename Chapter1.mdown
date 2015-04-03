@@ -39,4 +39,6 @@ I'm currently a mast in `R`. A starter with `Python`.
 
 8. [IOS Dev](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/)
 
+9. Read
+[24 Data Scientist Resource](http://blog.udacity.com/2014/12/24-data-science-resources-keep-finger-pulse.html)
 

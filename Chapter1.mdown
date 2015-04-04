@@ -42,4 +42,4 @@ I'm currently a mast in `R`. A starter with `Python`.
 9. Read
 [24 Data Scientist Resource](http://blog.udacity.com/2014/12/24-data-science-resources-keep-finger-pulse.html)
 
-10 .[A/B testing](http://pages.optimizely.com/rs/optimizely/images/practical_guide_to_stats.pdf)
+10. [A/B testing](http://pages.optimizely.com/rs/optimizely/images/practical_guide_to_stats.pdf)

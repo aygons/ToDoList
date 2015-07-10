@@ -1,6 +1,5 @@
 ## The Way To Be A Data Scientist##
-### Self Evaluation ###
-I'm currently a mast in `R`. A starter with `Python`.
+
 ### Basic ###
 1. Statistics
   - Basic Statistic: 
